@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/css-grid/)
 
+### Day 1: July 1 2020
+
+**Today's Progress**: I've gone through half the exercises on FreeCodeCamp for basic JavaScript Algorithms.
+
+**Thoughts** Helped me practice using js tricks with built in array methods and recursion.
+
+**Link(s) to work**
+1. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+

@@ -18,7 +18,7 @@
 **Link(s) to work**
 1. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
-### Day 1: July 2 2020
+### Day 2: July 2 2020
 
 **Today's Progress**: Using the knowledge on grid CSS learned previuolsy I created a project to practice grid layout creation. 
 

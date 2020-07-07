@@ -27,3 +27,12 @@
 **Link(s) to work**
 1. [Practicing Grid](https://github.com/et-nat1995/Practice-grid/tree/master)
 
+### Day 3: July 6 2020
+
+**Today's Progress**: Sigend up for 30 days of js projects to get a better understanding of pure js. Completed the first project of creating an on keydown drum kit
+
+**Thoughts** Never knew i can add event listeners to the end of a transform transition.
+
+**Link(s) to work**
+1. [30DaysOfJs](https://javascript30.com/)
+2. [My Drumkit solutiom](https://github.com/et-nat1995/JavaScript30/blob/tamir/01%20-%20JavaScript%20Drum%20Kit/index-START.html)

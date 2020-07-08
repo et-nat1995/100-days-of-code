@@ -36,3 +36,13 @@
 **Link(s) to work**
 1. [30DaysOfJs](https://javascript30.com/)
 2. [My Drumkit solutiom](https://github.com/et-nat1995/JavaScript30/blob/tamir/01%20-%20JavaScript%20Drum%20Kit/index-START.html)
+
+### Day 4: July 7 2020
+
+**Today's Progress**: Created a clock following the 30days of js projects
+
+**Thoughts** Learned how to mix JS with CSS to add a transform rotate animantion and how to use transition-timing-function with cubic-bezier.
+
+**Link(s) to work**
+1. [30DaysOfJs](https://javascript30.com/)
+2. [My Drumkit solutiom](https://github.com/et-nat1995/My30DaySolution/tree/master/02%20-%20js%20and%20css%20clock)
